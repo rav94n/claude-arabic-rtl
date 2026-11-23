@@ -1,0 +1,10 @@
+{
+  "name": "arabic-rtl",
+  "version": "0.1.0",
+  "description": "Draws Arabic (and other right-to-left) messages right to left; /rtl turns it on or off",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "rav94n"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "claude-arabic-rtl",
+  "owner": { "name": "rav94n" },
+  "plugins": [{ "name": "arabic-rtl", "source": "./" }]
+}
